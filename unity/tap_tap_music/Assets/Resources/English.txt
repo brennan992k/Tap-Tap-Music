@@ -1,0 +1,20 @@
+GetFree@Get  Free
+Freeunlock@Free  Unlock
+discount@Enjoy  Discount  
+PurchSucc@Successful
+UnlockSucc@Unlock  Successful
+UnlockNewBall@Unlock  New  Ball
+OriginalPrice@Original  Price
+Determine@OK
+HiddenTracks@Get  Hidden  Tracks
+NewTracks@Get  New  Tracks
+Setting@Setting
+Award@Award  x  2
+Speedup@Speed ​​up 
+Continue@%
+Challengefailed@(Challenge failed without losing rewards)
+FollowMusic@Follow  The  Rhythm  Of  Music
+Left@Left
+Right@Right
+clickleft@A platform on the <color=#00FE2AFF>left</color> front, click on the <color=#00FE2AFF>left</color> side of the screen
+clickRight@A platform on the <color=#00FE2AFF>right</color> front, click on the <color=#00FE2AFF>right</color> side of the screen

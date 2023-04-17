@@ -1,0 +1,20 @@
+GetFree@免费获得
+Freeunlock@免费解锁
+discount@优惠购买 
+PurchSucc@成功
+UnlockSucc@解锁成功
+UnlockNewBall@解锁新球
+OriginalPrice@原价
+Determine@确定
+HiddenTracks@获得隐藏曲目
+NewTracks@获得新曲目
+Setting@设置
+Award@本关奖励 x  2
+Speedup@速度提升
+Continue@%
+Challengefailed@(挑战失败不损失奖励)
+FollowMusic@跟随音乐节奏
+Left@左
+Right@右
+clickleft@<color=#00FE2AFF>左</color>前方有平台,点击屏幕<color=#00FE2AFF>左</color>侧
+clickRight@<color=#00FE2AFF>右</color>前方有平台,点击屏幕<color=#00FE2AFF>右</color>侧

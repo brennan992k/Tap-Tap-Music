@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - platform
+  - player
+  - UIBg
+  - MusicRhythm
+  - UILight
+  - UIParticle
+  - BallModel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "UIBg"
+    uniqueID: 2145420587
+    locked: 0
+  - name: "MusicRhythm"
+    uniqueID: 837962179
+    locked: 0
+  - name: "UILight"
+    uniqueID: 3770051207
+    locked: 0
+  - name: "UIParticle"
+    uniqueID: 777967993
+    locked: 0
+  - name: "UI"
+    uniqueID: 3185032241
+    locked: 0
+  - name: "Player"
+    uniqueID: 4144305857
+    locked: 0
